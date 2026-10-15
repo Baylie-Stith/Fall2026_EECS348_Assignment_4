@@ -13,7 +13,7 @@
 // Revision: Added comments, improved error checking, and reduced recursive calls
 //
 // Build: g++ -std=c++17 -O2 -o Assignment4.exe Assignment4.cpp
-// Run:   ./Assignment4.exe puzzle1.txt puzzle2.txt ... (defaults to puzzle1..5.txt)
+// Run:   ./Assignment4.exe puzzle1.txt puzzle2.txt puzzle3.txt puzzle4.txt puzzle5.txt
 
 // Header files -> Access extra functions
 #include <array>
